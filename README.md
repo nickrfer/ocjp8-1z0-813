@@ -1,4 +1,4 @@
-# ocjp-1z0-813
+# ocjp8-1z0-813
 Code examples, resources, and notes covering the ocjp8 1Z0-813 exam.
 
 Exam Number: 1Z0-813
