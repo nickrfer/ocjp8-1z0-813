@@ -62,3 +62,4 @@ Exam Title: Upgrade to Java SE 8 OCP ( Java SE 6 and all prior versions)
 * https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-813
 * http://ocpj8.javastudyguide.com/upgrade.html#java6
 * http://java.boot.by/ocpjp8-upgrade-guide/
+* http://enthuware.com/index.php/mock-exams/oracle-certified-professional/ocpjp-8-1z0-813-questions
