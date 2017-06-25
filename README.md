@@ -58,7 +58,7 @@ Exam Title: Upgrade to Java SE 8 OCP ( Java SE 6 and all prior versions)
 * Describe the Stream interface and pipelines; create a stream by using the Arrays.stream() and  IntStream.range() methods; identify the lambda operations that are lazy
 * Develop code that uses parallel streams, including decomposition operation and reduction operation in streams
 
-# References
+# Links
 
 * https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-813
 * http://ocpj8.javastudyguide.com/upgrade.html#java6
